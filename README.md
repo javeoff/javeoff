@@ -25,3 +25,8 @@
 - 💬 English intermediately
 - 🎸 Guitar music
 - 👀 The fastest learning technologies
+
+## Social
+[<img align="left" width="22px" alt="javeoff | Twitter" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img align="left" width="22px" alt="javeoff | VK" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" width="22px" alt="javeoff | Instagram" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
