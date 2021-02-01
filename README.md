@@ -17,10 +17,6 @@
 ## Projects
 - 🌍 [Usluger.com](https://usluger.com) – transferplace system [RUS]
 
-## Education
-- 🎒 General education - 2020
-- 💼 Lyceum 52, Ryazan City – 10/11 grade
-
 ## Skills
 - 💬 English intermediately
 - 🎸 Guitar music
