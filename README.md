@@ -1,16 +1,27 @@
-### Hi there 👋
+### ✨ Daniil Jave
 
-<!--
-**javeoff/javeoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Javeoff's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=javeoff&show_icons=true&hide_border=true&theme=light)
 
-Here are some ideas to get you started:
+## Facts
+- 🔭 Working on a [Usluger.com](https://usluger.com)
+- 🌱 Learning Angular
+- 👯 Have no one work in team
+- 💼 Have not career experience
+- ⚡ I spend programming 14 hours a day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- Language: Javascript, Typescript
+- Frontend: React, Next, Material UI, Bootstrap, Redux, Angular, Vue, Nuxt
+- Backend: Node.js, Express, Knexjs, Nest,  RxJs, RabbitMQ, SQL, TypeOrm
+
+## Projects
+- 🌍 [Usluger.com](https://usluger.com) – transferplace system [RUS]
+
+## Education
+- 🎒 September 2008 – still studying
+- 💼 Lyceum 52, Ryazan City – 10/11 grade
+
+## Skills
+- 💬 English intermediately
+- 🎸 Guitar music
+- 👀 The fastest learning technologies
