@@ -18,7 +18,7 @@
 - 🌍 [Usluger.com](https://usluger.com) – transferplace system [RUS]
 
 ## Education
-- 🎒 September 2008 – still studying
+- 🎒 General education - 2020
 - 💼 Lyceum 52, Ryazan City – 10/11 grade
 
 ## Skills
