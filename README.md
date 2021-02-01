@@ -11,7 +11,7 @@
 
 ## Stack
 - Language: Javascript, Typescript
-- Frontend: React, Next, Material UI, Bootstrap, Redux, Angular, Vue, Nuxt
+- Frontend: React, Next, Material UI, Bootstrap, Redux, Angular, React Native
 - Backend: Node.js, Express, Knexjs, Nest,  RxJs, RabbitMQ, SQL, TypeOrm
 
 ## Projects
