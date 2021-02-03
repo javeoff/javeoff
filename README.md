@@ -22,8 +22,8 @@
 - 🎸 Guitar music
 - 👀 The fastest learning technologies
 
-## Angular knowledges
-|Angular knowledges|Nest knowledges|React|Technologies|
+## Knowledge data
+|Angular knowledge|Nest knowledges|React|Technologies|
 |------------------|---------------|-----|------------|
 | Bindings | Dependency Injection | JSX | Redis |
 | Directives | Controllers | State | Rabbit MQ |
