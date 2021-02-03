@@ -36,8 +36,8 @@
 - [x] Guards
 - [x] Resolvers
 - [x] Unit tests
-- [ ] Integration tests (Angular)
-- [ ] Animations
+- [x] Integration tests (Angular)
+- [x] Animations
 
 ## Social
 [<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/javeoff)
