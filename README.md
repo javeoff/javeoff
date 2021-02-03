@@ -22,7 +22,7 @@
 - 🎸 Guitar music
 - 👀 The fastest learning technologies
 
-## Knowledge data
+## Knowledge
 |Angular knowledge|Nest knowledges|React|Technologies|
 |------------------|---------------|-----|------------|
 | Bindings | Dependency Injection | JSX | Redis |
