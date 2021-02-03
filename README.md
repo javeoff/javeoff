@@ -22,6 +22,23 @@
 - 🎸 Guitar music
 - 👀 The fastest learning technologies
 
+## Angular knowledges
+- [x] Bindings
+- [x] Directives
+- [x] RXJS Basics
+- [x] Pipes
+- [x] Operators
+- [x] Services
+- [x] Reactive Forms
+- [x] HttpClient
+- [x] Interceptors
+- [x] Routing
+- [x] Guards
+- [x] Resolvers
+- [x] Unit tests
+- [ ] Integration tests (Angular)
+- [ ] Animations
+
 ## Social
 [<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/javeoff)
 [<img align="left" width="22px" alt="javeoff | VK" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/javeoff)
