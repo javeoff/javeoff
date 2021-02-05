@@ -23,7 +23,11 @@
 - 👀 The fastest learning technologies
 
 ## Knowledge
-|Angular knowledge|Nest knowledges|React|Technologies|
+[Show all in cluster](https://www.notion.so/a880d18b642544649aa74f0045c19a02?v=40b95cc2445a4c7a88e4ed66239fe59c)
+|[Angular knowledge](https://www.notion.so/a880d18b642544649aa74f0045c19a02?v=93656d68adaa40e3921fb378ae00b5f2) |
+[Nest knowledge](https://www.notion.so/a880d18b642544649aa74f0045c19a02?v=07a38f58588d41f48b4eb12375b160ca) | 
+[React](https://www.notion.so/a880d18b642544649aa74f0045c19a02?v=ca52bfa3baf94343b1ee7ee309d1ecc5) | 
+Technologies|
 |------------------|---------------|-----|------------|
 | Bindings | Dependency Injection | JSX | Redis |
 | Directives | Controllers | State | Rabbit MQ |
