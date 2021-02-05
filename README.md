@@ -3,7 +3,6 @@
 ![Javeoff's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=javeoff&show_icons=true&hide_border=true&theme=light)
 
 ## Facts
-- 🔭 I am 22
 - 🌱 Learning Angular
 - 👯 Have no one work in team
 - 💼 Have not career experience
