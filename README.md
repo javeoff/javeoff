@@ -4,8 +4,6 @@
 
 ## Facts
 - 🌱 Learning Angular
-- 👯 Have no one work in team
-- 💼 Have not career experience
 - ⚡ I spend programming more than 14 hours a day
 
 ## Stack
